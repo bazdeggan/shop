@@ -1,0 +1,81 @@
+{
+ "shop": {
+  "name": "Моя витрина",
+  "tg": "your_username",
+  "currency": "руб.",
+  "banners": [
+   {
+    "title": "Новинка!",
+    "text": "Добавьте баннер в админке",
+    "img": ""
+   },
+   {
+    "title": "Скидки",
+    "text": "Пишите, что хотите",
+    "img": ""
+   }
+  ]
+ },
+ "categories": [
+  "Жидкости",
+  "Одноразки",
+  "Поды",
+  "Расходники"
+ ],
+ "products": [
+  {
+   "id": "p1",
+   "name": "Жидкость Berry 30мл",
+   "price": 18,
+   "cat": "Жидкости",
+   "img": "",
+   "stock": true,
+   "rating": 4.8
+  },
+  {
+   "id": "p2",
+   "name": "Одноразка Moonlight 40000",
+   "price": 60,
+   "cat": "Одноразки",
+   "img": "",
+   "stock": true,
+   "rating": 4.6
+  },
+  {
+   "id": "p3",
+   "name": "Под-система Xros 6",
+   "price": 95,
+   "cat": "Поды",
+   "img": "",
+   "stock": true,
+   "rating": 4.9
+  },
+  {
+   "id": "p4",
+   "name": "Картридж Xros",
+   "price": 13,
+   "cat": "Расходники",
+   "img": "",
+   "stock": true,
+   "rating": 4.2
+  },
+  {
+   "id": "p5",
+   "name": "Жидкость Mint 30мл",
+   "price": 18,
+   "cat": "Жидкости",
+   "img": "",
+   "stock": false,
+   "rating": 4.5
+  },
+  {
+   "id": "p6",
+   "name": "Одноразка Ice 20000",
+   "price": 45,
+   "cat": "Одноразки",
+   "img": "",
+   "stock": true,
+   "rating": 4.4
+  }
+ ]
+}
